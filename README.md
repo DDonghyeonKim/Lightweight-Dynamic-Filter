@@ -10,10 +10,10 @@ Dataset(speech command dataset) is avalable by following link.
 V1: http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz, 
 V2: http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz
 
-Site
-@article{kim2021lightweight,
-title={Lightweight dynamic filter for keyword spotting},
-author={Kim, Donghyeon and Ko, Kyungdeuk and Kwak, Jeong-gi and Han, David K and Ko, Hanseok},
-journal={arXiv preprint arXiv:2109.11165},
-year={2021}
+
+@article{kim2021lightweight,__
+  title={Lightweight dynamic filter for keyword spotting},__
+  author={Kim, Donghyeon and Ko, Kyungdeuk and Kwak, Jeong-gi and Han, David K and Ko, Hanseok},__
+  journal={arXiv preprint arXiv:2109.11165},__
+  year={2021}__
 }
