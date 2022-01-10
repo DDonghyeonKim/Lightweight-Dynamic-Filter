@@ -1,14 +1,14 @@
 # Lightweight-Dynamic-Filter
 
-Deep learning based dynamic filter for Speech Keyword Spotting
+Deep learning based dynamic filter for Speech Keyword Spotting<br />
 (https://arxiv.org/abs/2109.11165)
 
-Only Dynamic filter model is posted (Pytorch and Tensorflow V1). 
+Only Dynamic filter model is posted (Pytorch and Tensorflow V1). <br />
 
-Keyword spotting model (TENet and TC Resnet) is avalable at https://github.com/Interlagos/TENet-kws
-Dataset(speech command dataset) is avalable by following link. 
-V1: http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz, 
-V2: http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz
+Keyword spotting model (TENet and TC Resnet) is avalable at https://github.com/Interlagos/TENet-kws<br />
+Dataset(speech command dataset) is avalable by following link. <br />
+V1: http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz, <br />
+V2: http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz<br />
 
 
 Citation
